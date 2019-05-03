@@ -8,6 +8,13 @@ Hopefully this extension can bring you some entertainment, as well as providing 
 
 This is based on Cynthia Bailey Lee's [blockchain-to-spreadsheet](https://github.com/cynthiablee/blockchain-to-spreadsheet) extension.
 
+List of replacements (which may come in a few forms, to adapt for grammar):
+
+* blockchain -> multiple copies of a giant Excel spreadsheet
+* artificial intelligence -> statistics models too complicated for their developers to explain
+* the cloud -> a computer that isn't yours
+* cloud computing -> asking someone else to run your program for you
+
 ## Installing
 
 ### Firefox
