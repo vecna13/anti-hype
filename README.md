@@ -1,13 +1,24 @@
-WHAT: 
-This is a Chrome browser extension that can help readers contextualize news stories with hype about blockchain technology, by reminding you that blockchain is, in essence, a giant Excel spreadsheet.
+# Anti-Hype
 
-WHY:
-For fun.
+This is a browser extension for reducing hyped-up tech buzzwords to roughly equivalent (though much less exciting) descriptions.
 
-HOW:
-To install this extension in your Chrome browser, you can go get it from the official Chrome store (same tool, still free, fewer steps required) by going to this link:
+I don't recommend actually running this full-time, as it may cause confusion, but it is fun to run for a bit.
 
-[Official Chrome store install (easier for novices)](https://chrome.google.com/webstore/detail/replace-blockchain-with-s/johdgapbhomlhcflancninpeafocpopn?hl=en-US&gl=US)
+Hopefully this extension can bring you some entertainment, as well as providing a bit of educational value.
+
+This is based on Cynthia Bailey Lee's [blockchain-to-spreadsheet](https://github.com/cynthiablee/blockchain-to-spreadsheet) extension.
+
+## Installing
+
+### Firefox
+
+When I get a chance, I'll submit this to AMO.
+
+### Chrome
+
+I have no plans at this time to add this to the Chrome Web Store, but if you want to, you're welcome to.
+
+I have retained these instructions from [blockchain-to-spreadsheet](https://github.com/cynthiablee/blockchain-to-spreadsheet)'s README:
 
 Or you can do a manual install from this GitHub repo (also easy!) by following these steps:
 
@@ -21,16 +32,14 @@ Or you can do a manual install from this GitHub repo (also easy!) by following t
 6. Choose the folder that the unzipped/extracted files are in (probably called "blockchain-to-spreadsheet-master").
 7. The extension should now appear and the "Enabled" box should be checked. Start browsing blockchain news to read about all the things a giant Excel spreadsheet can do!
 
-EXAMPLE:
-Here's a screenshot for y'all:
-![screenshot](https://user-images.githubusercontent.com/22127496/36832800-dde60102-1ce1-11e8-9559-4c4d93456376.png)
+## Contributing
 
-Special thanks:
+If you have a buzzword you want to contribute an alternative phrase for, feel free to submit a pull request (or just open an issue).
+
+## Special thanks
+
+Big thanks to Cynthia Bailey Lee for making the [blockchain-to-spreadsheet](https://github.com/cynthiablee/blockchain-to-spreadsheet) extension that brought me a lot of joy and inspired this one!
 
 Twitter user @mims (Christopher Mims) for [the suggestion](https://twitter.com/mims/status/968967786130300928) to make a "browser extension that replaces "blockchain" with "multiple copies of a giant Excel spreadsheet." For example, "multiple copies of a giant excel spreadsheet to revolutionize journalism." 
 
-Thanks to Tom Maxwell for the [tutorial and template code](https://9to5google.com/2015/06/14/how-to-make-a-chrome-extensions/) for this project! 
-
-Enjoy!
-
--CBL
+Thanks to Tom Maxwell for the [tutorial and template code](https://9to5google.com/2015/06/14/how-to-make-a-chrome-extensions/) for this project!
